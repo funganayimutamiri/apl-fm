@@ -33,6 +33,9 @@ Start the local development server: php artisan serve
 Build the frontend assets: npm run build
 
 Usage
+
+To get started with our web app, simply register by providing a generic email address and a password. Please note that the password must be at least 8 characters long to ensure your account's security. Once you've filled in the necessary information, you'll be ready to explore all the features our app has to offer!
+
 Navigate to the "Image Upload" page, where you can select an image file from your device.
 You have the option to add a brief description of the image.
 Click the "Upload" button to complete the upload process.
